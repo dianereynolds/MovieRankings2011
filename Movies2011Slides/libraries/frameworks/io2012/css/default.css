@@ -239,7 +239,7 @@ body {
 slides > slide {
   display: none;
   font-family: 'Open Sans', Arial, sans-serif;
-  font-size: 26px;
+  font-size: 20px;
   color: #797979;
   width: 900px;
   height: 700px;
@@ -355,7 +355,7 @@ slides > slide.backdrop:after, slides > slide.backdrop:before {
 }
 /* line 216, ../scss/default.scss */
 slides > slide > hgroup + article {
-  margin-top: 45px;
+  margin-top: 36px;
 }
 /* line 220, ../scss/default.scss */
 slides > slide > hgroup + article.flexbox.vcenter, slides > slide > hgroup + article.flexbox.vleft, slides > slide > hgroup + article.flexbox.vright {
@@ -470,8 +470,8 @@ h1, h2, h3 {
 
 /* line 316, ../scss/default.scss */
 h2 {
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 36px;
+  line-height: 36px;
   letter-spacing: -2px;
   color: #515151;
 }
